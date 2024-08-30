@@ -1,12 +1,12 @@
 # Shahjabir_Portfolio
-**A minimal portfolio template for Developers!**
+**A minimal portfolio template for Developers!** <br/>
 ⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/Shahjabir_Portfolio?color=blue)](https://github.com/ShahJabir/Shahjabir_Portfolio/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/Shahjabir_Portfolio) ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/Shahjabir_Portfolio)
 
 ## Tech Stack
-**FrontEnd**:
-[<img src="https://nextjs.org/favicon.ico" alt="nextjs">](https://nextjs.org/)
-[<img src="https://tailwindcss.com/favicons/favicon-16x16.png" height="50px" width="50px" alt="Tailwind CSS">](https://tailwindcss.com/)
-[<img src="https://ui.shadcn.com/favicon.ico" alt="Shadcn">](https://ui.shadcn.com/)
+**FrontEnd**: <br/>
+[<img src="https://nextjs.org/favicon.ico" alt="nextjs">](https://nextjs.org/)<br/>
+[<img src="https://tailwindcss.com/favicons/favicon-16x16.png" height="50px" width="50px" alt="Tailwind CSS">](https://tailwindcss.com/) <br/>
+[<img src="https://ui.shadcn.com/favicon.ico" alt="Shadcn">](https://ui.shadcn.com/) <br/>
 
 ## Feature:
 
