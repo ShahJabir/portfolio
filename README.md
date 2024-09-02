@@ -1,6 +1,6 @@
-# Shahjabir_Portfolio
+# Portfolio
 **A minimal portfolio template for Developers!** <br/> <br/>
-⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/Shahjabir_Portfolio?color=blue)](https://github.com/ShahJabir/Shahjabir_Portfolio/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/Shahjabir_Portfolio) ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/Shahjabir_Portfolio)
+⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/portfolio?color=blue)](https://github.com/ShahJabir/portfolio/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/portfolio) ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/portfolio)
 
 ## Tech Stack
 **FrontEnd**: <br/>
@@ -45,12 +45,12 @@ From your command line, first clone Simplefolio:
 <!-- # Clone the repository -->
 ```bash
 # Clone the repository
-$ git clone https://github.com/ShahJabir/Shahjabir_Portfolio
+$ git clone https://github.com/ShahJabir/portfolio
 ```
 <!-- # Move into the repository -->
 ```bash
 # Move into the repository
-$ cd Shahjabir_Portfolio
+$ cd portfolio
 ```
 <!-- # Remove the current origin repository -->
 ```bash
@@ -118,7 +118,7 @@ Once your server has started, go to this url `http://localhost:3000/` to see the
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f7abfec-b7f7-4f6e-86e6-d1e7ea5494f8/deploy-status)](https://app.netlify.com/sites/shahjabir/deploys)
+
 
 ## License 📄
 
