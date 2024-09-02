@@ -122,6 +122,7 @@ Once your server has started, go to this url `http://localhost:3000/` to see the
 
 ## Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6d47702-b88e-47f2-8613-fa1c37716b79/deploy-status)](https://app.netlify.com/sites/jabirtaqi/deploys)
 
 
 ## License 📄
