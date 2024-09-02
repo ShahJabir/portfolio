@@ -4,9 +4,13 @@
 
 ## Tech Stack
 **FrontEnd**: <br/>
-[<img src="https://nextjs.org/favicon.ico" alt="nextjs">](https://nextjs.org/)
-[<img src="https://tailwindcss.com/favicons/favicon-16x16.png" height="50px" width="50px" alt="Tailwind CSS">](https://tailwindcss.com/)
-[<img src="https://ui.shadcn.com/favicon.ico" alt="Shadcn">](https://ui.shadcn.com/) <br/>
+  <div>
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/shadcn-ui?color=black" alt="Shadcn/ui" />
+    
+  </div> <br/>
 
 ## Feature:
 
